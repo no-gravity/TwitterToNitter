@@ -1,6 +1,6 @@
 # TwitterToNitter
 
-![illustration](https://raw.githubusercontent.com/no-gravity/TwitterToNitter/main/illustration.jpg)
+![illustration](https://raw.githubusercontent.com/no-gravity/TwitterToNitter/main/illu.jpg)
 (Illustration by [Jenny from illubots](https://www.instagram.com/illubots/))
 
 A bookmarklet that shows the current Twitter page on Nitter. On every click it, chooses a random Nitter instance:
