@@ -1,5 +1,9 @@
 # TwitterToNitter
-Bookmarklet that shows the current Twitter page on Nitter. On every click it, chooses a random Nitter instance:
+
+![illustration](https://raw.githubusercontent.com/no-gravity/TwitterToNitter/main/illustration.jpg)
+(Illustration by [Jenny from illubots](https://www.instagram.com/illubots/))
+
+A bookmarklet that shows the current Twitter page on Nitter. On every click it, chooses a random Nitter instance:
 
 ### javascript:h=['nitter.it','nitter.snopyta.org','nitter.net']; location.href=location.href.replace(window.location.host,h[Math.floor(Math.random()*h.length)]);
 
