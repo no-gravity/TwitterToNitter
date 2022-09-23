@@ -16,3 +16,7 @@ If you are new to bookmarklets, here is how they work:
 - 1: Bookmark some page. It does not matter which one.
 - 2: Edit the Bookmark and replace the URL with the "javascript:h=[...]" line above, including the "javascript:", upt to the final ";".
 - 3: It works :) Every time you click the bookmark, it will select a random Nitter instance to show the current tweet.
+
+You can try it right now on the tweet that announced it:
+
+https://twitter.com/marekgibney/status/1573310551610265602
