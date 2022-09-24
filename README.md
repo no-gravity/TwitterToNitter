@@ -17,6 +17,10 @@ If you are new to bookmarklets, here is how they work:
 - 2: Edit the Bookmark and replace the URL with the "javascript:h=[...]" line above, including the "javascript:", up to the final ";". Give it a nice name.
 - 3: It works :) Every time you click the bookmark, it will select a random Nitter instance to show the current tweet.
 
-You can try it right now on the tweet in which I announced it:
+## Update
 
-https://twitter.com/marekgibney/status/1573310551610265602
+Turns out there also is a simple two-click solution to read Twitter when not logged in.
+
+When getting the nag screen, click on "Log in" and then click the "X". Boom! You can continue reading:
+
+https://twitter.com/marekgibney/status/1573625913492869120
